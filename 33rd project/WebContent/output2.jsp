@@ -17,7 +17,7 @@
     <li class="list-group-item">The average is : ${average}</li>
     <li class="list-group-item">The highest and lowest grades are : ${high} ${low} </li>
   </ul>
-  <p><b>note : </b>If the highest and lowest scores say <b>"0"</b> or <b>101</b>, then ignore that entry as it is not relevant to your option you chose <br>
+  <p><b>note : </b>If the average, highest, or  lowest scores say <b>"0"</b> or <b>101</b>, then ignore that entry as it is not relevant to your option you chose <br>
    in the previous page
 </div>
 
