@@ -11,7 +11,7 @@
 <body>
 
 <div class="container">
-  <h2>Basic List Group</h2>
+  <h2>Results</h2>
   <ul class="list-group">
     <li class="list-group-item">The assignments are : <br> ${assignments}</li>
     <li class="list-group-item">The average is : ${average}</li>
